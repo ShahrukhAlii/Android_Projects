@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="would_you_like_to_see_the_text">Do you like this Dialog ??</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="click_me">Click Me!</string>
+</resources>

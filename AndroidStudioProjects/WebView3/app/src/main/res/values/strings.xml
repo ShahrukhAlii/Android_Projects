@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="cutomhtml">CutomHTML</string>
+    <string name="static_html">Static HTML</string>
+    <string name="load_web_page">Load Web Page</string>
+</resources>

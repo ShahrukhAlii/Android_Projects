@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internal_Storage</string>
+    <string name="name_text">Name</string>
+    <string name="password_text">Password</string>
+    <string name="name1_text">Name</string>
+    <string name="password1_text">Password</string>
+</resources>

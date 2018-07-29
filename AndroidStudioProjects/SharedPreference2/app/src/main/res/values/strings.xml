@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreference2</string>
+    <string name="name_text">Name</string>
+    <string name="password_text">Password</string>
+    <string name="load_text">Load</string>
+    <string name="previous_text">Previous</string>
+</resources>

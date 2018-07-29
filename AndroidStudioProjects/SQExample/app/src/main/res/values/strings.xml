@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQExample</string>
+    <string name="username_1">UserName</string>
+    <string name="password_1">Password</string>
+    <string name="add_user">Add User</string>
+    <string name="view_data">View Data</string>
+    <string name="enter_name_to_delete">Enter Name to Delete</string>
+    <string name="update_name">Update Name</string>
+    <string name="delete">Delete</string>
+    <string name="new_name">New Name</string>
+    <string name="new_name1">New Name</string>
+</resources>

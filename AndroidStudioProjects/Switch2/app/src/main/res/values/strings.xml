@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Switch</string>
+    <string name="submit2" tools:ignore="DuplicateDefinition">Submit</string>
+    <string name="switch1">Switch1</string>
+    <string name="submit">Submit</string>
+    <string name="switch2">Switch2</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+
+  <item android:title="First Bar"
+      android:id="@+id/firstBar"
+      android:orderInCategory="1"
+      app:showAsAction="never">
+  </item>
+
+        <item android:title="Second Bar"
+            android:id="@+id/secondBar"
+            android:orderInCategory="1"
+            app:showAsAction="never">
+        </item>
+
+        <item android:title="Third Bar"
+            android:id="@+id/thirdBar"
+            android:orderInCategory="1"
+            app:showAsAction="never">
+        </item>
+
+    </group>
+
+</menu>

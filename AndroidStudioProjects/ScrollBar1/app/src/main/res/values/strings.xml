@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScrollBar1</string>
+    <string name="this_is_fragment_a">This is Fragment A</string>
+    <string name="this_is_fragment_b">This is Fragment B</string>
+    <string name="this_is_fragment_c">This is Fragment C</string>
+    <string name="this_is_fragment_d">This is Fragment D</string>
+</resources>

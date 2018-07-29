@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EditTExt</string>
+    <string name="enter_the_number_you_want_text">Enter the number you want</string>
+    <string name="example_75_text">Example 75%</string>
+</resources>

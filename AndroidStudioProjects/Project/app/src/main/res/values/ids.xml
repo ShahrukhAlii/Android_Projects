@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="namePlacer" type="id">namePlacer</item>
+    <item name="imageHolder" type="id">imageHolder</item>
+    <item name="periodID" type="id">periodID</item>
+    <item name="spinnerSubject" type="id" />
+    <item name="datePicker" type="id" />
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyAdapter</string>
+    <string name="textview_text">TextView</string>
+    <string name="textview_text1">TextView</string>
+
+    <string-array name="Titles">
+
+        <item>Meme1</item>
+        <item>Meme2</item>
+        <item>Meme3</item>
+        <item>Meme4</item>
+        <item>Meme5</item>
+        <item>Meme6</item>
+        <item>Meme7</item>
+        <item>Meme8</item>
+        <item>Meme9</item>
+        <item>Meme10</item>
+
+    </string-array>
+    <string-array name="description">
+
+        <item>Description1</item>
+        <item>Description2</item>
+        <item>Description3</item>
+        <item>Description4</item>
+        <item>Description5</item>
+        <item>Description6</item>
+        <item>Description7</item>
+        <item>Description8</item>
+        <item>Description9</item>
+        <item>Description10</item>
+
+    </string-array>
+</resources>

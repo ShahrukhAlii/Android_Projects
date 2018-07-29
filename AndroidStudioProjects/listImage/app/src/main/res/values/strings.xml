@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">listImage</string>
+    <string name="textview_test">TextView</string>
+    <string name="textview_text">TextView</string>
+    <string name="todo_text">TODO</string>
+
+
+    <string-array name="titles">
+
+        <item>Meme1</item>
+        <item>Meme2</item>
+        <item>Meme3</item>
+        <item>Meme4</item>
+        <item>Meme5</item>
+        <item>Meme6</item>
+        <item>Meme7</item>
+        <item>Meme8</item>
+        <item>Meme9</item>
+        <item>Meme10</item>
+    </string-array>
+
+
+
+    <string-array name="descriptions">
+
+        <item>This is description 1</item>
+        <item>This is description 2</item>
+        <item>This is description 3</item>
+        <item>This is description 4</item>
+        <item>This is description 5</item>
+        <item>This is description 6</item>
+        <item>This is description 7</item>
+        <item>This is description 8</item>
+        <item>This is description 9</item>
+        <item>This is description 10</item>
+    </string-array>
+
+</resources>

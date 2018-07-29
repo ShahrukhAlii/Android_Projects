@@ -1,0 +1,35 @@
+<android.support.v4.widget.DrawerLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/drawable"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.ContentFrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mainframe">
+
+
+
+
+    <ListView
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:id="@+id/listview"
+        android:entries="@array/planets"
+        android:layout_gravity="left">
+
+
+    </ListView>
+
+    <ListView
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:id="@+id/listview12"
+        android:entries="@array/planets"
+        android:layout_gravity="right">
+
+
+    </ListView>
+
+
+    </android.support.v7.widget.ContentFrameLayout>
+</android.support.v4.widget.DrawerLayout>

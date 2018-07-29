@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Example_layout</string>
+    <string name="username1">UserName</string>
+    <string name="password1">Password</string>
+    <string name="log_in2">Log In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="first_button">First Button</string>
+    <string name="log_in1">Log In</string>
+    <string name="username">UserName</string>
+    <string name="password2">Password</string>
+    <string name="log_in3">Log In</string>
+</resources>

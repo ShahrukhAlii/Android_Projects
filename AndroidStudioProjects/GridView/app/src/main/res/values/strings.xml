@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string-array name="Country_name">
+
+        <item>Country 1</item>
+        <item>Country 2</item>
+        <item>Country 3</item>
+        <item>Country 4</item>
+        <item>Country 5</item>
+        <item>Country 6</item>
+        <item>Country 7</item>
+        <item>Country 8</item>
+        <item>Country 9</item>
+        <item>Country 10</item>
+
+
+    </string-array>
+</resources>

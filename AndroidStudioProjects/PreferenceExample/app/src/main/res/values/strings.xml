@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PreferenceExample</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="load">Load</string>
+    <string name="previous">Previous</string>
+    <string name="name1">Name</string>
+    <string name="password2">Password</string>
+</resources>

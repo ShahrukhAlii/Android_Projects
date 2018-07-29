@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InnerFragment2</string>
+    <string name="click_me">Click Me!</string>
+    <string name="mytext">myText</string>
+
+
+    <string-array name="titles">
+
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Providers</item>
+        <item>Intent And Intent Filters</item>
+
+    </string-array>
+
+
+
+    <string-array name="descriptions">
+
+        <item>This document introduces the concept of activities, and then provides some lightweight guidance about how to work with them.</item>
+        <item> One APK file contains all the contents of an Android app and is the file that Android-powered devices use to install the app.</item>
+        <item>Android apps can be written using Kotlin, Java, and C++ languages. The Android SDK tools compile your code  </item>
+        <item>An Intent is a messaging object you can use to request an action from another app component.</item>
+
+    </string-array>
+</resources>

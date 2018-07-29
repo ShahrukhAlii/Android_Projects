@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Choronemeter</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="setformat">SetFormat</string>
+    <string name="clearformat">ClearFormat</string>
+</resources>

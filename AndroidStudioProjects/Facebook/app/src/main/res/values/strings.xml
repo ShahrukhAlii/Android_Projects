@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="facebook_text">facebook</string>
+    <string name="username_text">Username:</string>
+    <string name="password_text">Password:</string>
+    <string name="T_text">Do you have an account?\n Create a new on!</string>
+</resources>

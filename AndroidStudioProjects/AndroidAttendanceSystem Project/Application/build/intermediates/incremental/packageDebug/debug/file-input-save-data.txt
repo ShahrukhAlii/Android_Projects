@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sun May 06 00:30:19 PDT 2018
+1.base=C\:\\Users\\3tee system\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\Application\\build\\intermediates\\assets\\debug
+2.path=photo_2.jpg
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\3tee system\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\Application\\build\\intermediates\\assets\\debug
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=ASSET
+0.path=photo_3.jpg
+3.base=C\:\\Users\\3tee system\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.set=ASSET
+0.base=C\:\\Users\\3tee system\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\Application\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=photo_1.jpg

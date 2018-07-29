@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewPractice</string>
+    <string name="simplewebview">SimpleWebView</string>
+    <string name="static_web_view">Static Web View</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fonts</string>
+    <string name="textview_Text">This is my new font</string>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Navigation!</string>
+
+
+    <string-array name="planets">
+
+
+        <item>Planet 1</item>
+        <item>Planet 2</item>
+        <item>Planet 3</item>
+        <item>Planet 4</item>
+        <item>Planet 5</item>
+        <item>Planet 6</item>
+        <item>Planet 7</item>
+        <item>Planet 8</item>
+        <item>Planet 9</item>
+
+
+
+
+    </string-array>
+
+
+    <string-array name="stars">
+
+
+        <item>Stars 1</item>
+        <item>Stars 2</item>
+        <item>Stars 3</item>
+        <item>Stars 4</item>
+        <item>Stars 5</item>
+        <item>Stars 6</item>
+        <item>Stars  7</item>
+        <item>Stars  8</item>
+        <item>Stars  9</item>
+
+
+
+
+    </string-array>
+
+</resources>

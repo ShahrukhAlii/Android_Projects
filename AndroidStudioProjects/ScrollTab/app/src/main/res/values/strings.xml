@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollTab</string>
+    <string name="this_is_fragment_a">This is Fragment A</string>
+</resources>

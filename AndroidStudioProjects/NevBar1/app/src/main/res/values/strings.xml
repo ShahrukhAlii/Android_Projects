@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NevBar1</string>
+    <string-array name="Weekend">
+
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Satuarday</item>
+        <item>Sunday</item>
+
+    </string-array>
+</resources>

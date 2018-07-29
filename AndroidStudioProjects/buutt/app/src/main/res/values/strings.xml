@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">buutt</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="c">C#</string>
+    <string name="other">Other</string>
+</resources>

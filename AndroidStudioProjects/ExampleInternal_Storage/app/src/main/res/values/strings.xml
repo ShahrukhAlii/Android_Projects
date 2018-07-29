@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExampleInternal_Storage</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="load">Load</string>
+    <string name="previous">Previous</string>
+    <string name="password1">Password</string>
+</resources>

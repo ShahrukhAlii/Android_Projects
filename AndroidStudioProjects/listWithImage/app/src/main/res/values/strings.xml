@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">listWithImage</string>
+    <string name="textview_text">TextView</string>
+    <string name="textview_text1">TextView</string>
+
+    <string-array name="Tiles">
+
+        <item>Meme 1</item>
+        <item>Meme 2</item>
+        <item>Meme 3</item>
+        <item>Meme 4</item>
+        <item>Meme 5</item>
+        <item>Meme 6</item>
+        <item>Meme 7</item>
+        <item>Meme 8</item>
+        <item>Meme 9</item>
+        <item>Meme 10</item>
+
+    </string-array>
+    <string-array name="Descriptions">
+
+        <item>Descriptions 1</item>
+        <item>Descriptions 2</item>
+        <item>Descriptions 3</item>
+        <item>Descriptions 4</item>
+        <item>Descriptions 5</item>
+        <item>Descriptions 6</item>
+        <item>Descriptions 7</item>
+        <item>Descriptions 8</item>
+        <item>Descriptions 9</item>
+        <item>Descriptions 10</item>
+
+    </string-array>
+
+</resources>

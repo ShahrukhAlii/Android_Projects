@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NevBar</string>
+
+    <string name="drawble_open">Open Navigation Drawble </string>
+    <string name="drawble_close">Close Navigaton Drawble</string>
+    <string name="textview">TextView</string>
+    <string-array name="Social">
+        <itm>Facebook</itm>
+        <itm>Twitter</itm>
+        <itm>Youtube</itm>
+        <itm>Windows</itm>
+        <itm>Skype</itm>
+            
+
+
+    </string-array>
+</resources>

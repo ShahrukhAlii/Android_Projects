@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyDialoge</string>
+    <string name="click_me">Click Me!</string>
+    <string name="cancel">Cancel</string>
+    <string name="Ok">ok</string>
+
+    <string-array name="days">
+
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Satuarday</item>
+        <item>Sunday</item>
+    </string-array>
+
+
+</resources>

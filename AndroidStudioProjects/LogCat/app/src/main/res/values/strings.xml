@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LogCat</string>
+    <string name="hello_janeyman">Hello janeyman</string>
+    <string name="this_is_a_large_text_view">This is a Large Text View</string>
+    <string name="this_is_medium_text_view">This is Medium Text View</string>
+    <string name="button">Button</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="small_button">Small Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="checkedtextview">CheckedTextView</string>
+    <string name="radiobutton1">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+</resources>

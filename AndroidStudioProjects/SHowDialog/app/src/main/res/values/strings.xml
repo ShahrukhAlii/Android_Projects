@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SHowDialog</string>
+    <string name="button">Button</string>
+    <string name="do_you_like_the_dialog">Do you like the Dialog??</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>

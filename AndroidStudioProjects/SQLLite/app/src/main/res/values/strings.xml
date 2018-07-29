@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLLite</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="button">AddUser</string>
+    <string name="view_all_detail">View All Detail</string>
+</resources>

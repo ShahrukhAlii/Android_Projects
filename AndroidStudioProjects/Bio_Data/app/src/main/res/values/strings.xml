@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bio_Data</string>
+    <string name="name_text">Name</string>
+    <string name="father_name_text">Father Name:</string>
+    <string name="phone_text">Phone</string>
+</resources>

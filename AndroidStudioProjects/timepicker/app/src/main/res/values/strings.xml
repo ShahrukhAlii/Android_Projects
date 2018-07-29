@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">timepicker</string>
+    <string name="ttime_is">TTime is:</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">newone</string>
+    <string name="todo">TODO</string>
+    <string name="center">Center</string>
+    <string name="center_crop">Center Crop</string>
+    <string name="center_inside">Center Inside</string>
+    <string name="fit_center">Fit Center</string>
+    <string name="fit_end">Fit End</string>
+    <string name="fit_start">Fit Start</string>
+    <string name="fit_xy">Fit xy</string>
+    <string name="matrix">Matrix</string>
+</resources>

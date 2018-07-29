@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Flexible User Interface With Fragments</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="titles">
+
+        <item>Profile</item>
+        <item>Contact</item>
+        <item>Intent Providers</item>
+        <item>Fragments</item>
+
+
+    </string-array>
+
+
+
+
+    <string-array name="descriptions">
+
+        <item>n writing, students begin by learning letters, then words, and finally sentences. In time</item>
+        <item> students learn how to write a paragraph by taking those sentences and organizing them around a common topic. </item>
+        <item>Learning how to write a paragraph can be challenging since it requires knowing how to write a great topic sentence</item>
+        <item> using supporting details and transitional words, </item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="x_text">Sin</string>
+    <string name="x_text1">Cos</string>
+    <string name="x_text2">Tan</string>
+    <string name="x_text3">\u03C0</string>
+    <string name="x_text4">!</string>
+    <string name="y_text">In</string>
+    <string name="y_text1">Log</string>
+    <string name="y_text2">e</string>
+    <string name="y_text3">&#x22C0;</string>
+    <string name="y_text4">&#x221A;</string>
+
+    <string name="z_text">7</string>
+    <string name="z_text1">8</string>
+    <string name="z_text2">9</string>
+    <string name="z_text3">&#xf7;</string>
+    <string name="z_text4">&#x207D;</string>
+
+
+
+    <string name="xy_text">4</string>
+    <string name="xy_text1">5</string>
+    <string name="xy_text2">6</string>
+    <string name="xy_text3">&#xd7;</string>
+    <string name="xy_text4">&#x207E;</string>
+
+
+
+    <string name="xz_text">1</string>
+    <string name="xz_text1">2</string>
+    <string name="xz_text4">&#x207B;</string>
+    <string name="xz_text2">3</string>
+    <string name="equal_text">&#x207C;</string>
+    <string name="zero_text">0</string>
+    <string name="dot_text">&#x22C5;</string>
+    <string name="plus_text">&#x207A;</string>
+
+
+</resources>

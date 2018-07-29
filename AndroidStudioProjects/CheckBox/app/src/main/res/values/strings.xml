@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="visual_studio">Visual Studio</string>
+    <string name="android_application">Android Application</string>
+    <string name="web_programming">Web Programming</string>
+    <string name="web_application">Web Application</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToggleBUtton</string>
+    <string name="button">Button</string>
+    <string name="togglebutton1">ToggleButton1</string>
+    <string name="togglebutton2">ToggleButton2</string>
+    <string name="submit">Submit</string>
+</resources>

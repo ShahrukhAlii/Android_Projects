@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyList</string>
+    <string name="textview_text">TextView</string>
+    <string name="textview_text2">TextView</string>
+    <string name="textview_text3">TextView</string>
+    <string name="textview_text1">TextView</string>
+
+
+    <string-array name="Titiles">
+
+
+        <item>Meme1</item>
+        <item>Meme2</item>
+        <item>Meme3</item>
+        <item>Meme4</item>
+        <item>Meme5</item>
+        <item>Meme6</item>
+        <item>Meme7</item>
+        <item>Meme8</item>
+        <item>Meme9</item>
+        <item>Meme10</item>
+
+
+
+    </string-array>
+    <string-array name="description">
+        <item>Descriptions1</item>
+        <item>Descriptions2</item>
+        <item>Descriptions3</item>
+        <item>Descriptions4</item>
+        <item>Descriptions5</item>
+        <item>Descriptions6</item>
+        <item>Descriptions7</item>
+        <item>Descriptions8</item>
+        <item>Descriptions9</item>
+        <item>Descriptions10</item>
+
+    </string-array>
+</resources>

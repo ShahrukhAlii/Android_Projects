@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExternalStorage</string>
+    <string name="saveprivate">SavePrivate</string>
+    <string name="savepublic">SavePublic</string>
+    <string name="next">Next</string>
+    <string name="data">Data</string>
+</resources>

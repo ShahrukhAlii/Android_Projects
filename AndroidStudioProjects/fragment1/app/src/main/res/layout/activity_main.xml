@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shahrukh.fragment1.MainActivity">
+
+
+    <Button
+        android:id="@+id/firstfragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="72dp"
+        android:text="@string/first_fragment" />
+
+    <Button
+        android:id="@+id/secondfragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/firstfragment"
+        android:layout_below="@+id/firstfragment"
+        android:layout_marginTop="78dp"
+        android:text="@string/second_fragment" />
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/secondfragment"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp">
+
+    </FrameLayout>
+</RelativeLayout>

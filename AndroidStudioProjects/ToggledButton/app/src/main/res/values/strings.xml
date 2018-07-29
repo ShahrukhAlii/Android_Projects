@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToggledButton</string>
+    <string name="button">Button</string>
+    <string name="togglebutton1">ToggleButton1</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">preference</string>
+    <string name="data">Data</string>
+    <string name="show_information">Show Information</string>
+    <string name="save_information">Save information</string>
+    
+    
+
+</resources>
